@@ -19,6 +19,7 @@ wget -qO- https://raw.githubusercontent.com/filippolauria/install-antiloris/mast
 The script has been tested on the following platforms:
 - Ubuntu 20.04
 - Debian 11
+- Debian 12
 
 ## Credits
 The module was developed by Nick ([Deltik](https://github.com/Deltik)) along with contributions from other developers. You can find the full list of contributors [here](https://github.com/Deltik/mod_antiloris/graphs/contributors).
