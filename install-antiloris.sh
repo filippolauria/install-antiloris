@@ -18,7 +18,7 @@
 # limitations under the License.
 #
 
-LATEST_VERSION="v0.7.0"
+LATEST_VERSION="v0.7.1"
 RELEASE_URL="https://github.com/Deltik/mod_antiloris/releases/download/${LATEST_VERSION}/mod_antiloris.so"
 
 usage() {
